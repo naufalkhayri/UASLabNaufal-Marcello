@@ -9,8 +9,8 @@ UASDasproNaufal(241401089) dan Marcello(241401104)
 - **Nama Project**: [Projek Black Market]
 - **Nama Kelompok**: [Kelompok Jarang Mewing]
 - **Anggota**:
-  1. 241401089 - Naufal Khayri Lubis
-  2. 241401104 - Marcello Frans Mardohae Pakpahan
+  1. 241401089 - Naufal Khayri Lubis.
+  2. 241401104 - Marcello Frans Mardohae Pakpahan.
 
 ## Dokumentasi
 Link Google Drive: [link Google Drive](https://drive.google.com/drive/folders/121OwxHQmkHvue7xaX7wrDOHSxm75P_7L?usp=drive_link)
