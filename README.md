@@ -13,7 +13,7 @@ UASDasproNaufal(241401089) dan Marcello(241401104)
   2. 241401104 - Marcello Frans Mardohae Pakpahan.
 
 ## Dokumentasi
-Link Google Drive: [link Google Drive](https://drive.google.com/drive/folders/121OwxHQmkHvue7xaX7wrDOHSxm75P_7L?usp=drive_link)
+Link Google Drive: [link Google Drive](https://drive.google.com/drive/folders/121OwxHQmkHvue7xaX7wrDOHSxm75P_7L?usp=drive_link).
 
 ## Video Presentasi
 Link YouTube: [link video YouTube](https://youtu.be/AfyKsQFRZnY?si=K4Vu5eexmGDzdBUh)
